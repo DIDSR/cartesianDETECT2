@@ -1,0 +1,4 @@
+./cartesianDETECT2_randxyz.x 10100.1 10100.1 10.0 1000.0 0.1 1.8 1.0 0.1 0.001 0.25 4500.0 4500.0 5500.0 5500.0 2 99385 input-490.in prf-490.out radialbin-490.out > console-490.out
+./cartesianDETECT2_randxyz.x 10100.1 10100.1 10.0 1000.0 0.1 1.8 1.0 0.1 0.001 0.25 4500.0 4500.0 5500.0 5500.0 2 28894 input-170.in prf-170.out radialbin-170.out > console-170.out
+./cartesianDETECT2_randxyz.x 10100.1 10100.1 10.0 1000.0 0.1 1.8 1.0 0.1 0.001 0.25 4500.0 4500.0 5500.0 5500.0 2 52010 input440.in prf440.out radialbin440.out > console440.out
+./cartesianDETECT2_randxyz.x 10100.1 10100.1 10.0 1000.0 0.1 1.8 1.0 0.1 0.001 0.25 4500.0 4500.0 5500.0 5500.0 2 56450 input490.in prf490.out radialbin490.out > console490.out

@@ -1,0 +1,55 @@
+
+	 Input arguments: 19
+
+
+**************************************************************************************
+
+	 X detector dimension:			 10100.099609 um 
+	 Y detector dimension:			 10100.099609 um 
+	 Side of a column:			 10.000000 um 
+	 Thickness of detector:			 1000.000000 um 
+	 Intercolumnar gap:			 0.100000 um 
+	 Refractive index of column:		 1.800000 
+	 Refractive index of intercolumnar space:1.000000 
+	 Top surface absorption:		 0.100000 
+	 Bulk absorption coefficient:		 0.001000 um^-1 
+	 Surface roughness coefficient:		 0.250000 
+	 Lower x,y bounds for PRF:		 4500.000000, 4500.000000 um 
+	 Upper x,y bounds for PRF:		 5500.000000, 5500.000000 um 
+	 Pixel pitch:				 2 um 
+	 Seed input for RNG:			 99385 
+	 Scintillation events file name (input): input-490.in 
+	 PRF file name (output):		 prf-490.out 
+	 Radial response file name (output):		 radialbin-490.out 
+
+**************************************************************************************
+
+X-ray number 0 
+Generated - 5999127 
+
+	 Statistics for columns: 
+
+		 Detected - 3367367 
+		 Reflected from top surface - 719863
+		 Absorbed at top surface - 79642
+		 Absorbed in bulk - 2538714
+
+	 Statistics for intercolumnar space: 
+
+		 Detected - 1
+		 Reflected from top surface - 0
+		 Absorbed at top surface - 0
+		 Lost at detector boundary - 13403 
+
+
+
+*********************************************************************************
+
+  Average path length of photons = 183.957382 um 
+
+  Total number of photons simulated for 1.000000e+00 primaries = 5999127 
+
+  Total time 343.140015 sec --  Speed = 17483.029297 photons per sec
+
+	 SIMULATION ENDED !!
+
