@@ -15,8 +15,10 @@ This software and documentation (the "Software") were developed at the Food and 
 parties of the Software, its source code, documentation or compiled executables, and makes no guarantees, expressed or implied, about its quality, reliability, or any other characteristic. Further, use of this code in no way implies endorsement by the FDA or confers any advantage in regulatory decisions. Although this software can be redistributed and/or modified freely, we ask that any derivative works bear some notice that they are derived from it, and any modified versions bear some notice that they have been modified. 
 
 
-Code input and output
-=====================
+Package input arguments and output files
+========================================
+
+The package contains source code, examples and manual for compiling and executing cartesianDETECT2 and additional routines for estimating DOI.
 
 cartesianDETECT2 requires 18 command line arguments which specify the optical transport simulation parameters.  
 They are (in order):
