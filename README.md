@@ -5,7 +5,7 @@ cartesianDETECT2 is a dedicated Monte Carlo optical transport code for modeling 
 
 We have also used cartesianDETECT2 to obtain estimates of depth-of-interaction (DOI) for improving spatial resolution of nuclear imaging applications.  The simulations results from cartesianDETECT2 are analyzed to model and establish patterns between DOI and photon scattering.  Our findings indicate that DOI estimates can be extracted from a double-Gaussian model of the detector response.
 
-This code is still under development; please report to the author any issue or bug that you may encounter.  Feel free to suggest any improvements in the code too.
+This code is still under development; please report to the author at diamcode@gmail.com, any issue or bug that you may encounter.  Feel free to suggest any improvements in the code too.
 
 Disclaimer
 ==========
